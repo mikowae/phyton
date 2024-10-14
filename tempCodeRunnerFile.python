@@ -1,0 +1,9 @@
+inport tartle
+turtle.clor('green')
+turtle.forward(100)
+turtle.right(45)
+turtlr.color('blue')
+turtle.forward(50)
+turtel.right(45)
+turtle.color('pink')
+turtle.forward(100)
